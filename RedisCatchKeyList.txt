@@ -1,0 +1,12 @@
+Catch for Deal id: 1200145332
+--------------------------------------
+
+[SUPERCASH_localized_key_v1.0_MALAYALAM_0084c4dee3cda636ffaa3f7fb1e55747_1200145332_frontend_redemption_type_key,SUPERCASH_localized_key_v1.0_HINDI_0084c4dee3cda636ffaa3f7fb1e55747_1200145332_frontend_redemption_type_key,SUPERCASH_localized_key_v1.0_GUJARATI_0084c4dee3cda636ffaa3f7fb1e55747_1200145332_frontend_redemption_type_key,SUPERCASH_localized_key_v1.0_KANNADA_0084c4dee3cda636ffaa3f7fb1e55747_1200145332_frontend_redemption_type_key,SUPERCASH_localized_key_v1.0_MARATHI_0084c4dee3cda636ffaa3f7fb1e55747_1200145332_frontend_redemption_type_key,SUPERCASH_localized_key_v1.0_BENGALI_0084c4dee3cda636ffaa3f7fb1e55747_1200145332_frontend_redemption_type_key,serving_jackson_31_may_deal_1200145332,SUPERCASH_localized_key_v1.0_TELUGU_0084c4dee3cda636ffaa3f7fb1e55747_1200145332_frontend_redemption_type_key]
+==========================================
+
+Catch for Deal id: 1201351401
+--------------------------------------
+
+[task_java_jackson_31_may_deal_1201351401]
+==========================================
+
